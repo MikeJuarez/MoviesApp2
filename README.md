@@ -26,10 +26,10 @@ Recall from Stage 1, you built a UI that presented the user with a grid of movie
 
 ### Screenshots
 
-<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp/master/_screenshots/splash_screen.png" width="250" /></br>
-<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp/master/_screenshots/movie_detail.png" width="250"/></br>
-<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp/master/_screenshots/favorite_movie.png" width="250"/></br>
-<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp/master/_screenshots/trailers_reviews.png" width="250"/></br>
+<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp2/master/_screenshots/splash_screen.png" width="250" /></br>
+<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp2/master/_screenshots/movie_detail.png" width="250"/></br>
+<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp2/master/_screenshots/favorite_movie.png" width="250"/></br>
+<img src="https://raw.githubusercontent.com/MikeJuarez/MoviesApp2/master/_screenshots/trailers_reviews.png" width="250"/></br>
 
 ## Built With
 
