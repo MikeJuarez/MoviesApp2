@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 1\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fd560c41b5fd063a8e8dd81258337016927678c">
+        <dex dex="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_806b3e117cdf72600445d05eb74a1edaa55b4257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 2\MoviesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 2\MoviesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5afd627da984204bc188c2e09863f0d7045aaa54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 2\MoviesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a82fd3f4fc78cd228fba62c52b27e8b808938737">
+        <dex dex="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 2\MoviesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dfab0675cc8524317dd96414f70fd76b9fad73a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 1\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\AndroidStudioProjects\Nanodegree\Movie App - Stage 1\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_07a4359b2d93880b9b156cd00bba996f6426eb6b\classes.dex" />
+    </item>
+
+</items>
